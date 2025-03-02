@@ -82,15 +82,6 @@
 
 ---
 
-<h2 align="left">🏆 Achievements</h2>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Amine-NIHMATOUALLAH&theme=dracula&row=1&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy Graph" />
-</div>
-
----
 
 <h2 align="left">📊 GitHub Stats</h2>
 
