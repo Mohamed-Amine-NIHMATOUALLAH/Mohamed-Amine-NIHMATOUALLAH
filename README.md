@@ -16,13 +16,27 @@
 
 ###
 
-<p align="left">✨ Passionate about technology, problem-solving, and innovation<br>🚀 Building the future with code & networks<br>💡 Continuously learning and growing in the field of software development and networking<br><br>🔍 Open to collaboration and new opportunities<br>📌 Explore my projects and let’s connect!<br><br>📢 Find me on LinkedIn 🔗</p>
+<p align="left">
+✨ Passionate about technology, problem-solving, and innovation<br>
+🚀 Building the future with code & networks<br>
+💡 Continuously learning and growing in the field of software development and networking<br><br>
+🔍 Open to collaboration and new opportunities<br>
+📌 Explore my projects and let’s connect!<br><br>
+📢 Find me on 
+<a href="https://www.linkedin.com/in/mohamed-amine-nihmatouallah-692611269/" target="_blank"><b>LinkedIn</b></a> 🔗 <br>
+📧 Contact me via  
+<a href="mailto:mohamed.amine.nihmatouallah@gmail.com"><b>Email</b></a> 📩
+</p>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/mohamed-amine-nihmatouallah-692611269/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
+  </a>
+  <a href="mailto:mohamed.amine.nihmatouallah@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -71,5 +85,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-NIHMATOUALLAH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Amine-NIHMATOUALLAH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
