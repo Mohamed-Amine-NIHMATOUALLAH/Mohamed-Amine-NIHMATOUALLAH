@@ -3,7 +3,7 @@
 
 ---
 
-<p align="">
+<p align="left">
   Hello, I’m Mohamed Amine NIHMATOUALLAH! I'm a "Future IT & Network Engineer" currently studying at EMSI. My focus is on "building solutions" that bridge the gap between technology and real-world problems. 
   I’m passionate about "software development", "network engineering", and "innovation".
 </p>
