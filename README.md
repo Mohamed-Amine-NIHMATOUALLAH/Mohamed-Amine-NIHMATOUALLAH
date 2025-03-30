@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align="">
   Hello, I’m Mohamed Amine NIHMATOUALLAH! I'm a "Future IT & Network Engineer" currently studying at EMSI. My focus is on "building solutions" that bridge the gap between technology and real-world problems. 
   I’m passionate about "software development", "network engineering", and "innovation".
 </p>
@@ -21,11 +21,11 @@
 ---
 
 <p align="center">
-  ✨ **Technology Enthusiast**: I’m passionate about problem-solving and leveraging technology to make a meaningful impact.<br>
-  🚀 **Building the Future**: With a strong foundation in coding and networking, I aim to contribute to creating a more connected world.<br>
-  💡 **Continuous Learner**: I’m always evolving and growing in areas such as "software development", "network security", "cloud computing", and "devops".<br><br>
-  🔍 **Open to Collaboration**: I’m eager to collaborate with like-minded individuals and organizations to tackle real-world problems.<br>
-  📌 **Let’s Connect**: Feel free to explore my projects and contact me if you’d like to work together.
+  ✨ Technology Enthusiast: I’m passionate about problem-solving and leveraging technology to make a meaningful impact.<br>
+  🚀 Building the Future: With a strong foundation in coding and networking, I aim to contribute to creating a more connected world.<br>
+  💡 Continuous Learner: I’m always evolving and growing in areas such as "software development", "network security", "cloud computing", and "devops".<br><br>
+  🔍 Open to Collaboration: I’m eager to collaborate with like-minded individuals and organizations to tackle real-world problems.<br>
+  📌 Let’s Connect: Feel free to explore my projects and contact me if you’d like to work together.
 </p>
 
 ---
